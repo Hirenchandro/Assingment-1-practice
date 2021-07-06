@@ -28,6 +28,19 @@ font-family: 'Nunito', sans-serif;
     display: flex;
     margin-left: 50px;
     margin-right: 40px;
+    
+}
+.flex-container-3{
+    display: flex;
+    box-shadow: 10px 10px 30px gray;
+    width: 95%;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right:2px;
+    margin-bottom: 3%;
+   
+   
+
 }
 .width{
     width: 50%;
