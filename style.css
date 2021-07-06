@@ -10,6 +10,12 @@ h3{
     font-size: 20px;
     font-weight: bold;
 }
+#color{
+    color:grey;
+    font-family: 'Merriweather', serif;
+font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+}
 
 .flexible-container{
     display: flex;
@@ -19,9 +25,15 @@ h3{
     width: 50%;
     padding: 10px;
 }
-.width2{
+.Box-shadow{
+    box-shadow: 10px 10px 30px gray;
     width: 30%;
-    padding-left: 5px;
+    margin: 2%;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 5px;
+    border-radius: 25px;
+   
 }
 .image-size1{
     width: 700px;
