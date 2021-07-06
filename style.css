@@ -32,12 +32,13 @@ font-family: 'Nunito', sans-serif;
 }
 .flex-container-3{
     display: flex;
-    box-shadow: 10px 10px 30px gray;
+    box-shadow: 2px 2px 5px silver;
     width: 95%;
     padding-left: 30px;
     padding-top: 20px;
     padding-right:2px;
     margin-bottom: 3%;
+    margin-left: 5px;
    
    
 
